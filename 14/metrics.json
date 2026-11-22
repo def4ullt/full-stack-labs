@@ -1,0 +1,45 @@
+{
+  "train": 39662,
+  "test": 9916,
+  "labels": [
+    "negative",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      4400,
+      539
+    ],
+    [
+      390,
+      4587
+    ]
+  ],
+  "metrics": {
+    "negative": {
+      "precision": 0.918580375782881,
+      "recall": 0.89086859688196,
+      "f1-score": 0.9045122828656593,
+      "support": 4939.0
+    },
+    "positive": {
+      "precision": 0.8948497854077253,
+      "recall": 0.9216395418927065,
+      "f1-score": 0.9080471147184005,
+      "support": 4977.0
+    },
+    "accuracy": 0.9063130294473578,
+    "macro avg": {
+      "precision": 0.9067150805953031,
+      "recall": 0.9062540693873332,
+      "f1-score": 0.9062796987920299,
+      "support": 9916.0
+    },
+    "weighted avg": {
+      "precision": 0.9066696105249998,
+      "recall": 0.9063130294473578,
+      "f1-score": 0.9062864718663747,
+      "support": 9916.0
+    }
+  }
+}
