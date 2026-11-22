@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.23.1
+ormar==0.12.2
+SQLAlchemy==1.4.41
+databases[postgresql]==0.6.2
+asyncpg==0.27.0
+psycopg2-binary==2.9.9
+pydantic==1.10.8
