@@ -1,0 +1,5 @@
+Learning Python with Small Projects
+
+A small project gives every line of code a purpose. A student can start with a text file and a simple question. Which word appears most often in the text? Python can read the file, split the text into words, and count each word.
+
+The first result often leads to a better question. Should Python count a word at the start of a sentence differently from the same word in the middle? Converting the text to lowercase makes the comparison consistent. A short example also makes the result easy to check by hand.
